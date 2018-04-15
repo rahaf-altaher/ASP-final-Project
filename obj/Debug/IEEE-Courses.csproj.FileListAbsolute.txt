@@ -1,0 +1,9 @@
+Y:\Projects\IEEE-Courses\IEEE-Courses\bin\IEEE-Courses.dll.config
+Y:\Projects\IEEE-Courses\IEEE-Courses\bin\IEEE-Courses.dll
+Y:\Projects\IEEE-Courses\IEEE-Courses\bin\IEEE-Courses.pdb
+Y:\Projects\IEEE-Courses\IEEE-Courses\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\Projects\IEEE-Courses\IEEE-Courses\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\Projects\IEEE-Courses\IEEE-Courses\obj\Debug\IEEE-Courses.csprojResolveAssemblyReference.cache
+Y:\Projects\IEEE-Courses\IEEE-Courses\obj\Debug\IEEE-Courses.csproj.CoreCompileInputs.cache
+Y:\Projects\IEEE-Courses\IEEE-Courses\obj\Debug\IEEE-Courses.dll
+Y:\Projects\IEEE-Courses\IEEE-Courses\obj\Debug\IEEE-Courses.pdb
